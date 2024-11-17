@@ -1,4 +1,4 @@
-# - 👋 Hi, I’mEhsan Garosi, Assistant Professor at Iran University of Medical Sciences
+# - 👋 Hi, I’m Ehsan Garosi, Assistant Professor at Iran University of Medical Sciences
 # - 👀 I’m interested in Ergonomics and software development, mobile app development, AI, and open-source projects.
 # - 🌱 I’m currently work at IUMS as an assistant professor.
 # - 💞️ I’m looking to collaborate on innovative Ergonomic design projects and applications.
